@@ -10,9 +10,6 @@ Każda z poniższych prac powinna zakończyć się (1) projektem pewnego rozwią
 
 Poniżej wymieniono ogólną tematykę w której prowadzone są badania.
 
-* Rozszerzona diagnostyka poszczególnych predykcji modelu.
-* AutoML. Automatyzacja procesu budowy modelu. Porównanie technik konstrukcji modelu, agregacji wyników modeli. http://www.ml4aad.org/automl/, [H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html), [sklearn](http://automl.github.io/auto-sklearn/stable/)
-* Nowe techniki wizualizacji gęstych danych. [Tasks, Data, and Designs](https://graphics.cs.wisc.edu/Papers/2018/SG18/scatterplots-preprint.pdf) [Uncertainty Visualization](http://graphics.uni-konstanz.de/publikationen/Goertler2018BubbleTreemapsUncertainty/bubble-treemaps.pdf)
 
 ### Interactive eXplainers
 
@@ -46,4 +43,10 @@ W wyniku użytkownik dostaje raport per zmienna, co jest transfromowane i czy to
 
 https://www.ncbi.nlm.nih.gov/pubmed/27632993
 http://www.aclweb.org/anthology/W09-2202
+
+### Inne
+
+* Rozszerzona diagnostyka poszczególnych predykcji modelu.
+* AutoML. Automatyzacja procesu budowy modelu. Porównanie technik konstrukcji modelu, agregacji wyników modeli. http://www.ml4aad.org/automl/, [H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html), [sklearn](http://automl.github.io/auto-sklearn/stable/)
+* Nowe techniki wizualizacji gęstych danych. [Tasks, Data, and Designs](https://graphics.cs.wisc.edu/Papers/2018/SG18/scatterplots-preprint.pdf) [Uncertainty Visualization](http://graphics.uni-konstanz.de/publikationen/Goertler2018BubbleTreemapsUncertainty/bubble-treemaps.pdf)
 
