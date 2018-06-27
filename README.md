@@ -19,6 +19,20 @@ Poniżej wymieniono ogólną tematykę w której prowadzone są badania.
 * D^3ALEX - interaktywne explainery w D3 (z wrapperami z R i/lub pythona). Interaktywny drilldown po wyjaśniaczach - Ewa B
 
 
+### PDP extensions
+
+* Słupki błędów na wykresach PDP i Factor Merger
+* Ciągła rodzina transformacji od Ceteris Paribus (lambda = 0) przez M plots (lambda = 0.5) po PDP (lambda = 1) [Rafał C]
+
+### Analizy porównawcze
+
+* Analiza Break Down vs LIME vs Shapley
+
+### Strzały
+
+* Rzadkie wyjaśnienia (na bazie breakDown)
+* Stabilność wyjaśnień (boostrapowe przedziały ufności)
+
 ### Surrogate-assisted feature extraction
 
 Pakiet SAFE wykorzystuje wybrane modele elastyczne (las losowy, xgboost) do generowania nowych, lepszych zmiennych, które można wykorzystać do białych skrzynek
