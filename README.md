@@ -10,6 +10,9 @@ Każda z poniższych prac powinna zakończyć się (1) projektem pewnego rozwią
 
 Poniżej wymieniono ogólną tematykę w której prowadzone są badania.
 
+### Douczanie modeli
+
+* personalizacja modeli klasyfikacji (np lasów losowych) do specjalistycznch zadań z być może zaburzonym wektorem odpowiedzi (inny rozkład wyjściowy)
 
 ### Interactive eXplainers
 
