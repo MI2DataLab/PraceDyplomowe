@@ -47,6 +47,10 @@ W wyniku użytkownik dostaje raport per zmienna, co jest transfromowane i czy to
 https://www.ncbi.nlm.nih.gov/pubmed/27632993
 http://www.aclweb.org/anthology/W09-2202
 
+### Explainery dla szeregów czasowych
+
+* Globalne i lokalne wyjaśnienia z uwzględnieniem występowania zmiennej lub zmiennych czasowych 
+
 ### Inne
 
 * Rozszerzona diagnostyka poszczególnych predykcji modelu.
