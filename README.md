@@ -49,7 +49,12 @@ http://www.aclweb.org/anthology/W09-2202
 
 ### Explainery dla szeregów czasowych
 
-* Globalne i lokalne wyjaśnienia z uwzględnieniem występowania zmiennej lub zmiennych czasowych 
+* Globalne i lokalne wyjaśnienia z uwzględnieniem występowania zmiennej lub zmiennych czasowych w modelach ze zmiennymi objaśniającymi. Przykłady modelowania
+  - praca dyplomowa na temat zastosowania ML w przewidywaniu szeregów czasowych ze zmiennymi objaśniającymi: https://dspace.mit.edu/bitstream/handle/1721.1/99565/924315586-MIT.pdf?sequence=1
+  - ANN w przewidywaniu kursów walut: https://arxiv.org/abs/1607.02093
+  - ML vs TS: https://www.datascience.com/blog/time-series-forecasting-machine-learning-differences
+  - porównanie kilku metod ML dla przewidywania cen biletów lotniczych: https://arxiv.org/pdf/1705.07205.pdf
+
 
 ### Inne
 
