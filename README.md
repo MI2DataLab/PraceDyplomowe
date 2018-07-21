@@ -54,6 +54,7 @@ http://www.aclweb.org/anthology/W09-2202
   - ANN w przewidywaniu kursów walut: https://arxiv.org/abs/1607.02093
   - ML vs TS: https://www.datascience.com/blog/time-series-forecasting-machine-learning-differences
   - porównanie kilku metod ML dla przewidywania cen biletów lotniczych: https://arxiv.org/pdf/1705.07205.pdf
+  - DL w modelowaniu danych klinicznych https://arxiv.org/abs/1807.01705
 
 
 ### Inne
