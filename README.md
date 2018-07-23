@@ -18,6 +18,13 @@ Poniżej wymieniono ogólną tematykę w której prowadzone są badania.
 
 * D^3ALEX - interaktywne explainery w D3 (z wrapperami z R i/lub pythona). Interaktywny drilldown po wyjaśniaczach - Ewa B
 
+### Wyjaśnialność zanurzeń np. z word2vec
+
+* wyjaśnialność preprocesingu z tekst -> R^p
+
+### Wyjaśnialność modeli Multiclass
+
+* zarówno w wersji prawdziwa jest jedna z wielu klas jak i w wersji każda z klas jest prawdopodobna
 
 ### PDP extensions
 
