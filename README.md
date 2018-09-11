@@ -35,6 +35,10 @@ Poniżej wymieniono ogólną tematykę w której prowadzone są badania.
 
 * Analiza Break Down vs LIME vs Shapley
 
+### ModelStudio ModelForgery
+
+* Aplikacja shiny pozwalająca na interaktywną eksplorację modelu
+
 ### Strzały
 
 * Rzadkie wyjaśnienia (na bazie breakDown)
