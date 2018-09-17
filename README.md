@@ -4,6 +4,10 @@ Studia to przygoda. Przeżyj ją razem z nami.
 
 http://mi2.mini.pw.edu.pl/
 
+## Jak wyglądają prace magisterskie w naszym zespole?
+
+Tutaj znajdują się prace magisterskie obronione w naszym zespole: https://github.com/mi2-warsaw/MI2/tree/master/Prace
+
 ## Tematy prac dyplomowych na rok 2018/2019
 
 Każda z poniższych prac powinna zakończyć się (1) projektem pewnego rozwiązania analitycznego, (2) implementacją tego rozwiązania jako pakietu R lub biblioteki python, (3) opisem wybranego przypadku użycia ilustrującego silne strony rozwiązania.
