@@ -62,6 +62,11 @@ W wyniku użytkownik dostaje raport per zmienna, co jest transfromowane i czy to
 https://www.ncbi.nlm.nih.gov/pubmed/27632993
 http://www.aclweb.org/anthology/W09-2202
 
+### Risk-Based Performance Attribution
+
+Strategie inwestowania a teoria gier i Shapley http://www.northstarrisk.com/004riskbased-performance-attribution
+Jak to ma się do Variable Attribution
+
 ### Inne
 
 * Rozszerzona diagnostyka poszczególnych predykcji modelu.
